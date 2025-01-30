@@ -32,7 +32,22 @@
 
 3. Probability & Statistics: Probability Distributions, Bayesian Inference, Hypothesis Testing.
 
-# Essential Topics of Agentic AI (Most Important and Practical Aspects)
+# Guidelines of Agentic AI
+Agentic AI mainly operates based on Four Foundational Pillars: Memory, Planning, Decision-Making and Autonomous Execution.
+
+★ How to Get Started with Agentic AI? 
+
+1. Reinforcement Learning (RL)
+
+2. Large Language Models (LLMs): Start with Hugging Face and OpenAI documentation.
+
+3. Autonomous Systems & Multi-Agent AI: Start with the book "Multi-Agent Systems" and explore open-source Autonomous AI projects.
+
+4. Memory & Planning Systems: Start with open-source projects like LangChain and AutoGPT.
+
+# Essential Topics of Agentic AI
+
+Most Important and Practical Aspects:
 
 1. Core Algorithms in Agentic AI
 
