@@ -87,5 +87,39 @@ Most Important and Practical Aspects:
 • Optimization: Gradient descent and policy optimization.
 
 
+# Quantum Computing
+
+Quantum computing is currently a hot topic in the tech world.
+
+Physicist Richard Feynman first proposed that by harnessing the principles of quantum mechanics, we could construct computers that operate exponentially faster than classical ones. In 1994, a mathematician named Peter Shor developed "Shor's Algorithm" which allows a quantum computer to factor large numbers very quickly, potentially breaking today’s encryption systems. Research in this field has been ongoing ever since.
+
+★ What is Quantum Computing? How Does Quantum Work?
+
+The computers we use are classical computers. They operate using "bits" which are either 0 or 1. However, quantum computers work with "qubits". Qubits can hold multiple possibilities at once. For example, 50 qubits together can process over 2^50 possibilities (1.125 quadrillion). These qubits can be both 0 and 1 at the same time, a property called "Superposition."
+
+1. Superposition: A qubit can be both 0 and 1 simultaneously. This allows a quantum computer to calculate many possibilities at once.
+
+2. Entanglement: When two qubits are entangled or linked to each other, a change in one instantly changes the other, no matter the distance between them (this increases the computer’s speed even more). Einstein famously described this phenomenon as "Spooky Action at a Distance."
+
+3. Interference: Interference uses quantum waves to identify the correct solution while eliminating incorrect possibilities.
+
+With these three principles, quantum computers can quickly solve complex problems that are impossible for classical computers. For instance, 100 qubits can process 2^100 possibilities which is more than the number of particles in the universe!
+
+★ How Are Quantum Computers Built? What Challenges Are Faced?
+
+Building a quantum computer is extremely difficult and costs hundreds of millions of dollars. Qubits can be electrons, photons or superconducting circuits. They must operate at temperatures near absolute zero (-273°C). Moreover, qubits are highly sensitive; keeping them stable is tough and even slight movement, noise or heat can cause errors. That’s why they’re kept in special chambers. Additionally, quantum computing requires new types of algorithms which require time to develop and master.
+
+★ Current Situation (Up to 2025):
+
+1. Google announced "Quantum Supremacy" in 2019. Their Sycamore processor with 53 qubits, completed a task in 200 seconds that would take the world’s fastest supercomputer 10,000 years. By 2024, their Willow Chip has become even more advanced.
+
+2. IBM’s Heron processor has 133 qubits and they’re providing researchers with cloud access through their "Quantum Center." Companies like IBM and Microsoft have brought quantum computing to the cloud, allowing ordinary people to try it, speeding up research.
+
+3. China has set new records in quantum computing with their Jiuzhang 2.0, which uses photons.
+
+
+
+
+
 
 
