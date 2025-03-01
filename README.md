@@ -1,3 +1,50 @@
+# Artificial Intelligence: Problem-Solving Search Strategies
+
+Have you ever wondered how Google Maps finds the fastest route for you? Or how a video game character knows where to go next?  
+
+A key component of AI drives these capabilities. When AI needs to solve a problem, such as finding the best way to get from one place to another, it searches through different possibilities. This process is known as a Search Strategy in AI.
+
+Types of Search Strategies in AI
+  
+AI search strategies are divided into two main types: Uninformed Search and Informed Search. 
+
+★ Uninformed Search:
+This involves exploring options systematically without prior knowledge or hints.  
+
+For example, imagine you’re in a maze and systematically explore every path without knowing which one leads to the exit. 
+
+Example:  
+   • Breadth-First Search (BFS): Explores all possible paths level by level. 
+   • Depth-First Search (DFS): Follows a single path all the way to the end before backtracking.  
+
+Uninformed search methods are straightforward but can be time-consuming.  
+
+★ Informed Search:  
+Here, AI applies strategies using some hints or knowledge about the best possible path.  
+
+For example, Google Maps uses traffic data and distance estimates to calculate the shortest or fastest route.
+
+Example: 
+   • A* Search: Uses distance traveled and an estimated cost to the goal to find the most efficient route. 
+
+Pathfinding in AI  
+
+One of the most common applications of searching is "Pathfinding".  
+
+Imagine a video game where your character needs to travel from the office to home.  
+
+  • If AI uses an uninformed method, it explores routes systematically without prioritizing the best option.  
+  • If AI uses an informed method, it leverages distance and time estimates to select the fastest route. 
+
+Real-Life Applications
+
+Search strategies underpin everyday tools like navigation apps, online search engines and video game mechanics. 
+
+Whenever you use a navigation app, play a video game or search for something online, AI's search algorithms are at work, making sure you get the best results efficiently!
+
+
+Reference Book: Forthcoming book titled "Artificial Intelligence: Echoes of a Silent Intellect", which will be published on Amazon soon.
+
 # Guidelines of Generative AI
 
 ★ Topics: In a structured order; from the most important to less critical topics!
