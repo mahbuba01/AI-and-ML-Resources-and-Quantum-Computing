@@ -14,8 +14,9 @@ This involves exploring options systematically without prior knowledge or hints.
 For example, imagine you’re in a maze and systematically explore every path without knowing which one leads to the exit. 
 
 Example:  
-   • Breadth-First Search (BFS): Explores all possible paths level by level. 
-   • Depth-First Search (DFS): Follows a single path all the way to the end before backtracking.  
+   1. Breadth-First Search (BFS): Explores all possible paths level by level. 
+   
+   2. Depth-First Search (DFS): Follows a single path all the way to the end before backtracking.  
 
 Uninformed search methods are straightforward but can be time-consuming.  
 
@@ -25,7 +26,7 @@ Here, AI applies strategies using some hints or knowledge about the best possibl
 For example, Google Maps uses traffic data and distance estimates to calculate the shortest or fastest route.
 
 Example: 
-   • A* Search: Uses distance traveled and an estimated cost to the goal to find the most efficient route. 
+   1. A* Search: Uses distance traveled and an estimated cost to the goal to find the most efficient route. 
 
 Pathfinding in AI  
 
