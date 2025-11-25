@@ -166,6 +166,25 @@ Building a quantum computer is extremely difficult and costs hundreds of million
 3. China has set new records in quantum computing with their Jiuzhang 2.0, which uses photons.
 
 
+# Two Chrome Tools for Researchers
+
+1. ExCITATION journal ranking in Google Scholar™️
+2. Rapid Journal Quality Check 
+
+Two popular extension available on the Chrome Web Store that instantly show the quality and ranking of any academic journal.
+
+Once you install the extension, whenever you browse sites like Google Scholar, it automatically displays:
+
+Quartile Ranking (Q1 / Q2 / Q3 / Q4): You can immediately see which quartile the journal belongs to.
+
+How to Install?
+
+1. Go to the Chrome Web Store
+2. Search "Extension Name"
+3. Click Add to Chrome
+
+After installation, the journal metrics will appear automatically on Google Scholar and other research platforms.
+
 
 
 
