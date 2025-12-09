@@ -186,6 +186,17 @@ How to Install?
 After installation, the journal metrics will appear automatically on Google Scholar and other research platforms.
 
 
+# How to find a journal for your paper?
+
+Go to https://journalfinder.elsevier.com/
+
+Write the abstract for your paper in it and search, you will get a list of related journals.
+
+If you submit your paper to a subscription-based journal (not open access), many of them do not charge any publication fee, because the cost is covered by institutional subscriptions.
+
+However, some journals still have submission fees or optional open-access charges, so it’s always important to check the journal’s "Author Guidelines" before submitting.
+
+
 
 
 
